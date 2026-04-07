@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RT3>
+  <camera type="orthographic"/>
+  <film type="image" x_res="800" y_res="400" filename="output/simple_bkg.png" img_type="png"/>
+  <world_begin/>
+    <background type="single_color" color="153 204 255"/>
+  <world_end/>
+</RT3>
